@@ -48,13 +48,13 @@ Based on these predictions, the application can provide useful recommendations t
 Example: If the system predicts an increase in demand for tomatoes during the coming week, it can notify farmers and buyers about the expected demand. Farmers can use this information to plan harvesting and sales more effectively.
 
 Demand forecasts will become more accurate as the application collects more reliable data. Predictions will be presented as guidance rather than guaranteed market outcomes.
-4. Smart Logistics and Route Optimization
+ Smart Logistics and Route Optimization
 Transportation is a major challenge in agricultural supply chains because fresh produce must often be delivered quickly. FarmDirect includes a logistics module that connects farmers with delivery partners and transport providers.
 
 The system can group orders from nearby farms and buyers to reduce unnecessary trips. Route optimization technology can recommend efficient delivery routes using factors such as distance, delivery locations, traffic information where available, and delivery deadlines.
 
 Example: If three farmers in the same village receive orders from nearby shops, the application can help coordinate the collection of their produce and suggest a suitable delivery route. This can reduce fuel consumption, transportation costs, and delivery delays.
-5. Order Management and Secure Payments
+ Order Management and Secure Payments
 The application provides order tracking for farmers and buyers. Farmers can view new orders, confirm quantities, prepare products, and update order status. Buyers can track the progress of their purchases and receive notifications about delivery.
 
 Digital payments can be integrated through a supported payment gateway or UPI-based payment service. The system can maintain transaction records to help farmers track their sales and payments.
