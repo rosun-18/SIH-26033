@@ -28,19 +28,19 @@ Benefits:
 ## Proposed Solution
 
  DETAILED EXPLANATION OF THE PROPOSED SOLUTION
-1. Farmer Registration and Crop Listing
+ Farmer Registration and Crop Listing
 Farmers can register on the FarmDirect application using their mobile number and basic details. After registration, they can create a profile containing their location, farm details, and available agricultural products.
 
 Farmers can upload crop photographs and provide information such as product name, quantity, quality, expected harvest date, and selling price. This information will be displayed on the marketplace so that buyers can easily find and purchase products directly from farmers.
 
 Example: A farmer with 500 kg of tomatoes can list the available quantity and price on the application. Nearby consumers, vegetable shops, and hotels can view the listing and place orders.
-2. Direct Connection Between Farmers and Buyers
+ Direct Connection Between Farmers and Buyers
 The application provides a common platform where farmers and buyers can interact without depending entirely on middlemen. Consumers can purchase smaller quantities, while retailers, hotels, supermarkets, and wholesalers can place bulk orders.
 
 Buyers can compare available products, prices, quantities, and delivery options before placing an order. Farmers can receive order notifications and accept or reject orders based on availability.
 
 This system improves price transparency and allows farmers to reach more customers. It can also help buyers obtain fresh produce at competitive prices.
-3. AI-Based Demand Forecasting
+ AI-Based Demand Forecasting
 FarmDirect uses Artificial Intelligence (AI) and machine learning to estimate the future demand for agricultural products. The system analyzes available information such as previous sales, seasonal trends, current orders, and market prices to predict which products are likely to be in high demand.
 
 Based on these predictions, the application can provide useful recommendations to farmers regarding the quantities they may want to supply and the crops that are experiencing increased demand.
